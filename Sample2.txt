@@ -13,3 +13,5 @@ This is an example file
 
 )to link local repo to remote repo : git remote add origin url
 )to check the linked the remote repo : git remote -v
+
+)to clone a repo :git clone "https://github.com/gayat19/firstsamplegit.git"
