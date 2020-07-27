@@ -10,3 +10,6 @@ This is an example file
 )to see the added files : git ls-files
 )to commit : git commit -a -m"Commit"
 ) which all files are related (staged or comitted):git ls-files
+
+)to link local repo to remote repo : git remote add origin url
+)to check the linked the remote repo : giit remote -v
