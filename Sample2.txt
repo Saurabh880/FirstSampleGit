@@ -2,7 +2,11 @@ This is an example file
 )current directory : cd
 )current directory to parent directory: cd ..
 )to know the files in current directory: mkdir
-)
-)
-)to add all files use : git add -A
+)to add new folder : mkdir folderName
+)to initilaize the git local resporatiory: git init
+)to know the untracked and staged files : git status
+)to add file : git add filename
+)to add all files: git add -A
+)to see the added files : git ls-files
+)to commit : git commit -a -m"Commit"
 ) which all files are related (staged or comitted):git ls-files
