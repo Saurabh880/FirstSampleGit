@@ -1,0 +1,8 @@
+This is an example file
+)current directory : cd
+)current directory to parent directory: cd ..
+)to know the files in current directory: mkdir
+)
+)
+)to add all files use : git add -A
+) which all files are related (staged or comitted):git ls-files
