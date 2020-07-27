@@ -12,4 +12,4 @@ This is an example file
 ) which all files are related (staged or comitted):git ls-files
 
 )to link local repo to remote repo : git remote add origin url
-)to check the linked the remote repo : giit remote -v
+)to check the linked the remote repo : git remote -v
